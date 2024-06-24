@@ -11,7 +11,7 @@ This project implements an Automatic Number Plate Recognition (ANPR) system usin
 #### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/computervisioneng/automatic-number-plate-recognition-python-yolov8.git
+   git clone https://github.com/MuhammadPA/Automatic-Number-Plate-Recognition-System
    ```
 2. Install required packages:
    ```sh
