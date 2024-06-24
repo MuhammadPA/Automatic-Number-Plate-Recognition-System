@@ -1,4 +1,4 @@
-### README: Automatic Number Plate Recognition (ANPR) System
+## Automatic Number Plate Recognition (ANPR) System
 
 #### Overview
 This project implements an Automatic Number Plate Recognition (ANPR) system using YOLOv8 for real-time detection and tracking of vehicles and license plates from video footage. It integrates object detection, vehicle tracking, and OCR to read and store license plate numbers.
